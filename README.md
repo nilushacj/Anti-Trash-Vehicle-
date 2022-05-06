@@ -4,6 +4,6 @@ Description: The repository contains images captured from two four door passenge
 Usage: Clone the directory to download the dataset. The filename can be used to filter images based on the required attribute (listed below).
 
 Filename attributes:
--- Status : Clean (contains no leftover items) or Occupied (contains leftover items)
--- Vehicle: Vehicle model used for image capture
--- Id     : Unique image id
+----- Status : Clean (contains no leftover items) or Occupied (contains leftover items) -----
+----- Vehicle: Vehicle model used for image capture -----
+----- Id     : Unique image id -----
